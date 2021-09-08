@@ -33,7 +33,7 @@ const songchnge=[
 },{
     song_name:"audio/Bachpan Ka Pyar.mp3",
     name:"BACHPAN KA PYAAR",
-    artist:"Badshaah|Aashtha Gill|Sahdev",
+    artist:"Badshaah |Sahdev",
     bgimage:"Images/1.png",
 
 },{
