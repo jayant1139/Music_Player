@@ -7,53 +7,39 @@ const title=document.getElementById('song');
 const artist=document.getElementById('artist');
 let songIndex=0;
 let flag=false;
-const songchnge=[{
-    song_name:"audio/SANAM HO JA.mp3",
-    name:"Sanam Ho Ja",
-    artist:"Arjun",
+const songchnge=[
+    {
+        song_name:"./audio/Hold On.mp3",
+        name:"HOLD ON",
+        artist:"Justin Bieber",
+        bgimage:"Images/2.png",
+    },{
+    song_name:"./audio/Stay.mp3",
+    name:"STAY",
+    artist:"Justin Bieber",
     bgimage:"Images/1.png",
 },
+,
 {
-    song_name:"audio/illegal.mp3",
-    name:"Illegal Weapon",
-    artist:"Garry Sandhu",
-    bgimage:"Images/2.png",
-},
-{
-    song_name:"audio/Koka.mp3",
-    name:"Koka",
-    artist:"Enzo",
+    song_name:"audio/Joel Adams Please Don't Go.mp3",
+    name:"PLEASE DON'T GO",
+    artist:"Joel Adams",
     bgimage:"Images/3.png",
 },{
-    song_name:"audio/O Meri Jaa.mp3",
-    name:"O Meri Jaan",
-    artist:"Emran Hashmi",
+    song_name:"audio/Let Me Down Slowly.mp3",
+    name:"LET ME DOWN SLOWLY",
+    artist:"Alec Benjamin",
     bgimage:"Images/4.png",
 },{
-    song_name:"audio/Suit.mp3",
-    name:"Suit",
-    artist:"Guru Randhawa",
+    song_name:"audio/Bachpan Ka Pyar.mp3",
+    name:"BACHPAN KA PYAAR",
+    artist:"Badshaah|Aashtha Gill|Sahdev",
     bgimage:"Images/1.png",
 
 },{
-    song_name:"audio/Teri Snapchat.mp3",
-    name:"Teri Snapchat",
-    artist:"Inder Dosanjh",
-    bgimage:"Images/2.png",
-},{
-    song_name:"audio/Tu ki jaane.mp3",
-    name:"Tu ki jaane",
-    artist:"Risky Maan",
-    bgimage:"Images/3.png",
-},,{
-    song_name:"audio/Yeh Jo Teri Payal.mp3",
-    name:"Yeh Jo Teri Payal",
-    artist:"Abhijeet",
-    bgimage:"Images/4.png",
-},{
-    song_name:"audio/Black N White.mp3",
-    name:"Black N White",
-    artist:"Gurnazar Ft. Himanshi Khurana",
+    song_name:"audio/Koka.mp3",
+    name:"KOKA",
+    artist:"Enzo",
     bgimage:"Images/2.png",
 }];
 

@@ -26,8 +26,9 @@
     text-align: center;
     align-content: center;
     background-color:var(--seccol);
-    width:300px;
+    width:320px;
     color: var(--maincol);
+   
     border-radius: 15px;
     box-shadow: 2px 2px 35px 6px rgba(136,128,128,1);
 }
@@ -83,4 +84,7 @@
 }
 .fa-play-circle,.fa-pause-circle{
     font-size:40px;
+}
+#music{
+    margin: 10px;
 }
