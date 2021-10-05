@@ -7,6 +7,7 @@ const title=document.getElementById('song');
 const artist=document.getElementById('artist');
 let songIndex=0;
 let flag=false;
+// Creating an object to access different songs 
 const songchnge=[
     {
         song_name:"./audio/Hold On.mp3",
