@@ -1,7 +1,23 @@
-# Music-Player
-### [Live-Site](https://jayant1139.github.io/Music_Player)
-![music-player](https://i.ibb.co/8dvYfS8/Screenshot-2021-10-16-210219.jpg)
 
-## Awesome music player with autoplay functionality and you can also change the song manually.
-I have used concept of object for easy and smooth functioning of music-player
+# _Music Player_ 
+Awesome music player with autoplay functionality and you can also change the song manually.
+
+ I have used **concept of object** for easy and smooth functioning of music-player
+
+
+ ## [Live Here](https://jayant1139.github.io/Music_Player)
+
+
+### 🛠 _SKILLS_
+_**JAVASCRIPT, HTML, CSS**_
+
+
+## SCREENSHOT
+
+![App Screenshot](https://github.com/jayant1139/Music_Player/blob/main/Screenshot%202021-10-16%20210219.jpg?raw=true)
+
+### 🔗 CONNECT HERE
+[![Github](https://img.shields.io/badge/my_github-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jayant1139)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayant-singh-475643156/)
+
 
