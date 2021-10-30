@@ -7,14 +7,13 @@ Awesome music player with autoplay functionality and you can also change the son
 
  ## [Live Here](https://jayant1139.github.io/Music_Player)
 
-
-### 🛠 _SKILLS_
-_**JAVASCRIPT, HTML, CSS**_
-
-
 ## SCREENSHOT
 
 ![App Screenshot](https://github.com/jayant1139/Music_Player/blob/main/Screenshot%202021-10-16%20210219.jpg?raw=true)
+
+
+### 🛠 _SKILLS USED_
+_**JAVASCRIPT, HTML, CSS**_
 
 ### 🔗 CONNECT HERE
 [![Github](https://img.shields.io/badge/my_github-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jayant1139)
